@@ -1,9 +1,10 @@
 
+
 关于我们
 =====
 太极图形 (Taichi Graphics, 北京格拉飞可斯科技有限公司) 主导开发开源基础设施 Taichi 编程语言 (https://github.com/taichi-dev/taichi, 18K stars, ~150 contributors, ~1M downloads) 及相关云计算基础设施，专注计算机图形学、编译器、高性能计算、云计算相关技术，拥有世界领先的技术积累。
 
-﻿公司 80% 为研发人员。**团队成员均来自 MIT、哈佛、宾大、清华、北大、Google、微软、Facebook 等顶尖学府和企业，一半以上成员拥有海外留学或工作经历。** 公司已获得红杉资本数百万美元投资，提供极具竞争力的现金、期权回报与福利。
+﻿公司 80% 为研发人员。**团队成员均来自 MIT、哈佛、宾大、清华、北大、Google、微软、Facebook 等顶尖学府和企业，一半以上成员拥有海外留学或工作经历。**公司已获得红杉资本数百万美元投资，提供极具竞争力的现金、期权回报与福利。
 
 相关产品已在快手等知名互联网企业落地，被百万用户使用。公司被硅谷权威科技媒体 The Information 评为 "全球 50 家最具发展潜力初创公司"（中国地区仅 7 家企业上榜），入围福布斯中国 2021 年企业科技 50 强榜单，并在北京市主办的 HiCool 全球创业大赛中获得一等奖（在5000支参赛队伍中共6支队伍获得一等奖）。
 
@@ -31,39 +32,47 @@
 
 [C++软件工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F63f7f1ba-5426-4f27-9cb2-c86d6fa0c641%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[分布式系统工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F9bb07726-6d0c-449a-83c7-f19c5999773a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[分布式系统工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F24b99122-644c-4d7a-87a6-4c6bf1b05e05%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[流媒体研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fe1b8b21f-30f8-494e-9a98-e2b9449582f5%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[流媒体研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F80c5a9c7-daea-41dc-bf58-584898ebe36b%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[服务器后端开发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F2097133a-a596-411b-abdb-1e6d6170db4a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[服务器后端开发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F0bea3f8d-7ae2-4e14-abe6-dedf27230fc5%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[云原生工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F41b04de8-0398-4802-904b-5a31f0f92fc0%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[云原生工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fa797bcfa-a0a8-4ad3-baad-63b05a598659%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[前端工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fddc2922f-f2ef-4b3d-9758-612019a4971a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[前端工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F87ab391e-fd6b-4b79-af5a-1da7d4d006de%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[编译器研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F5601b06a-35b7-4700-96af-3111ac885454%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[编译器研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F4a1f94ee-0e94-4484-9cac-12237353d74a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[GPU/HPC研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F4ed134a5-0702-4df6-b5fc-4dd50629ca1f%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[GPU/HPC研发工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F53216f2f-15a0-4da1-b217-fc5f42ccc707%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[DevOps工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F1e91de8b-268d-4f70-904b-f8456a9f6b09%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[DevOps工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fbdb0d6ad-0786-49cb-8a68-27bae4fe082b%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[Technical Writer](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F382ec0b2-ce06-4e7e-9703-954116633f96%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[Technical Writer](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F87c7d51a-f8a3-425f-b303-221c9dd4c9b0%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[资深引擎工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F2047eaf4-25ca-4006-bb31-99adc9cc092c%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[资深引擎工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fc7670730-fdfb-4bd0-8df6-735643456bec%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[图形工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Feb6dc36f-baa5-4322-b887-2d16c0ed7f44%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[图形渲染工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F422918e2-2fa3-40e7-a12f-9cc7dab3f26a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+
+[图形工程师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fd0af9625-b8f3-4eaa-a9c4-7c0f3de089f4%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
 ## 设计类
 
-[设计总监](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fa7d04b7f-4330-4316-a4c8-4fdeeb9509e5%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[设计总监](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F5a23c5de-8901-4e33-903d-66f46113ee9a%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[三维资产环境艺术家设计师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F27002ca7-9832-4bdd-8101-fa301dbdc3d3%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[技术美术](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F2ced9d96-4309-4a4f-81ff-9a8678461163%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
-[三维扫描资产流程TD](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F11846cbc-8c25-46b5-86b0-554361a9e8e7%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[三维美术师](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Ff8e038d8-fc93-42d2-a725-50a347244501%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
 
 ## 运营类
 
-[新媒体运营](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F48583486-bd4d-4364-ab62-8d342e182381%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+[新媒体运营](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2F21059e0a-6d8f-4658-b7d2-297a2cde6710%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+
+## 职能类
+
+[人力资源主管](https://app.mokahr.com/apply/taichi/41024?hash=%23%2Fjob%2Fafb01e9b-f85a-46fa-8ed2-6bb0a854ec1b%3Ffrom%3Dqrcode%26isRecommendation%3Dfalse)
+
+
 
 同时也欢迎有兴趣的大四、研二同学来太极图形实习（可提供转正）
 
